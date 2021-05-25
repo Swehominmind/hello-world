@@ -1,5 +1,5 @@
 # hello-world
-my first repository
+============================
 
 ## self-introduction
 Kevin here, sometimes you can also see me using the name 'Kyron'. Anyway, let's throw a light into our life.
